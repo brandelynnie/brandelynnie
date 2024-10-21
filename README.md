@@ -1,12 +1,13 @@
-## Hello 👋 ('^')
+## Hiya! 👋 ('^')
 
 I am a recent university graduate and have worked on a few projects while at school and work.
 
 ### 📚 Projects
 
 ### 🔭 Tools
-
--
+- Languages: Python, R, SQL
+- Databases: PostgreSQL, Google BigQuery, Excel
+- Viz: PowerBI, Tableau, Metabase
 <!--
 **brandelynnie/brandelynnie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
